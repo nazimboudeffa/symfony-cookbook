@@ -9,3 +9,6 @@ Change
 
 extension_dir = "c:/xampp/php/ext"
 
+tape
+
+composer create-project symfony/website-skeleton
