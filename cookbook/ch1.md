@@ -14,3 +14,7 @@ Go to the folder you want to install symfony and tape
 `composer create-project symfony/website-skeleton`
 
 ![](LOD8Annr20.png)
+
+Now tape 
+
+`php -S 127.0.0.1:8000 -t public`
