@@ -18,3 +18,5 @@ Go to the folder you want to install symfony and tape
 Now tape 
 
 `php -S 127.0.0.1:8000 -t public`
+
+![](hn0xVGtNQb.png)
