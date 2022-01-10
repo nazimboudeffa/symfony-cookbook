@@ -12,3 +12,5 @@ extension_dir = "c:/xampp/php/ext"
 tape
 
 composer create-project symfony/website-skeleton
+
+![](LOD8Annr20.png)
