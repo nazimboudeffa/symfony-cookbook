@@ -22,3 +22,30 @@ Now tape
 ![](hn0xVGtNQb.png)
 
 Symfony 5 actuellement donc cours à suivre https://www.youtube.com/watch?v=4t3fNkGwRWo
+
+
+
+now add these lines to routes.yaml
+
+```
+index:
+   path: /
+   controller: App\Controller\DefaultController::index
+```
+
+then create the file DefaultController.php in src/controllers
+
+```
+<?php
+
+namespace App\Controller;
+
+class DefaultController
+{
+    public function index()
+    {
+        var_dump("it works!");
+        die();
+    }
+}
+```
