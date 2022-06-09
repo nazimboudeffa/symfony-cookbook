@@ -23,7 +23,7 @@ Now tape
 
 Symfony 5 actuellement donc cours à suivre https://www.youtube.com/watch?v=4t3fNkGwRWo
 
-
+![](0rYoHZKywh.png)
 
 now add these lines to routes.yaml
 
