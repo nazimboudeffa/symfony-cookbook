@@ -20,3 +20,5 @@ Now tape
 `php -S 127.0.0.1:8000 -t public`
 
 ![](hn0xVGtNQb.png)
+
+Symfony 5 actuellement donc cours à suivre https://www.youtube.com/watch?v=4t3fNkGwRWo
