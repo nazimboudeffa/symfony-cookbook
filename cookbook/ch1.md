@@ -51,3 +51,31 @@ class DefaultController
 ```
 
 ![](2E0KFzT5JL.png)
+
+Now edit the DefaultController
+
+```
+<?php
+
+namespace App\Controller;
+
+use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
+
+class DefaultController extends AbstractController
+{
+    public function index()
+    {
+        return $this->render('index.html.twig');
+    }
+
+    public function test()
+    {
+        var_dump("it works!");
+        die();
+    }
+}
+```
+
+and add a file in template directory called `index.html.twig` and copy past what is in `base.html.twig`
+
+that's what it renders
