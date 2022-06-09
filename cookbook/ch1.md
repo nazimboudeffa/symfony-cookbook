@@ -79,3 +79,5 @@ class DefaultController extends AbstractController
 and add a file in template directory called `index.html.twig` and copy past what is in `base.html.twig`
 
 that's what it renders
+
+As I work on windows now you can download symfony.exe and pu it at the root of the project
